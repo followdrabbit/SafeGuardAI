@@ -1,0 +1,6 @@
+python-dotenv
+openai
+tiktoken
+jinja2
+pandas
+tavily-python
