@@ -54,6 +54,7 @@ To use SafeGuardAI, simply type "python main.py -tec 'PRODUCT_NAME'", for exampl
 - Allow file upload for each execution.
 - Support vendors other than AWS and allow use for technologies that are not cloud-based, such as Operating Systems and others.
 - Refactor the code according to best practices.
+- Create baselines using HTML templates
 
 ## License
 
